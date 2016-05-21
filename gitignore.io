@@ -6,6 +6,8 @@
 *.apk
 *.ap_
 
+#.classpath
+
 # Files for the Dalvik VM
 *.dex
 
